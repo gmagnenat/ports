@@ -16,7 +16,7 @@ A terminal UI for managing listening ports. Built for developers who end up with
 ## Install
 
 ```bash
-go install github.com/your-username/ports@latest
+go install github.com/gmagnanat/ports@latest
 ```
 
 Or build from source:
