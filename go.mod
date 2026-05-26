@@ -1,4 +1,4 @@
-module ports
+module github.com/gmagnenat/ports
 
 go 1.26.2
 
