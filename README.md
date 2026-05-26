@@ -22,7 +22,7 @@ go install github.com/gmagnanat/ports@latest
 Or build from source:
 
 ```bash
-git clone https://github.com/your-username/ports.git
+git clone https://github.com/gmagnanat/ports.git
 cd ports
 go build -o ports .
 cp ports ~/.local/bin/  # or anywhere in your PATH
